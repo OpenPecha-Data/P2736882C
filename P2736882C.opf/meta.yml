@@ -1,0 +1,143 @@
+id: P2736882C
+initial_creation_type: input
+source_metadata:
+  title: Lineage Prayers
+  language: en
+  description: 'A series of lineage prayers (brgyud ''debs):'
+  volume:
+    609c6c033dac4a8ab0db2b4d22f18f7f:
+      title: Bodhicaryāvatāra Lineage Prayer
+      parent: Bodhicaryāvatāra
+    53d89af51cc549cdb3a02d6d7018c030:
+      title: Prayer to the Lineage of the Bodhicaryāvatāra
+      parent: Bodhicaryāvatāra
+    d84d53bf688d4defaf7a44279bf879b6:
+      title: 'Vines of Amṛta: A Prayer to the Lineage of the Bodhicaryāvatāra'
+      parent: Bodhicaryāvatāra
+    9a9ea1bb80d2427e9683e8e52181a4d5:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      parent: Chimé Pakmé Nyingtik
+    f75e1ae59f4b4c74a23ea090af745fb8:
+      title: The Lineage Prayer for the Natural Liberation of Grasping (Dzinpa Rangdrol)
+      parent: Chöd
+    c2f15081c7334b8fb921eadd4b0374f3:
+      title: Prayer to the Gurus of the Chöd Lineage
+      parent: Chöd
+    cf281e4d9b54416288cbafa94f2dd7f0:
+      title: Prayer to the Gurus of the Dzogchen Lineage
+      parent: Dzogchen
+    ed7532c9f5c947d5a6ab1c4fa4240ba8:
+      title: Brief Dzogchen Lineage Prayer
+      parent: Dzogchen
+    0249bcd2f00f43c49cad4bdf5a26c147:
+      title: 'A Constant Stream of Blessings: A Prayer to the Eight Supreme Vidyādharas
+        of India'
+      parent: Eight Vidyādharas
+    b065aed57de749df9ec1ac8f2d4716e9:
+      title: Invoking the Blessings of the Kagyü Lineage—‘Dorjechang Thungma’
+      parent: Kagyü
+    849fbf14199147f7b2d81d766256231c:
+      title: Supplement to the Lineage Prayer for the Lamdré Instructions Composed
+        by Tsarchen
+      parent: Lamdré
+    4472117c15ae49b6a4bf437eebe14efc:
+      title: 'Beautiful Clouds of Blessings: A Prayer to the Lineage Masters of the
+        Heart Essence of the Vast Expanse from the Great Perfection'
+      parent: Longchen Nyingtik
+    ba1edaa46e7446a38b0544ba4d623fe1:
+      title: Supplication to the Lineage of the Heart Essence of the Vast Expanse
+      parent: Longchen Nyingtik
+    eef2c238696a44f2bc2747a92fcf7074:
+      title: Supplement to the Longchen Nyingtik Lineage Prayer
+      parent: Longchen Nyingtik
+    0cd96356357142baa3bcb2ab815d3d61:
+      title: 'A Shower of Great Bliss: A Lineage Prayer for the Guru Yoga based on
+        Vajrasattva'
+      parent: Longchen Nyingtik
+    2c1914042f0c491493250992e0d104df:
+      title: 'Source of Magnificent Blessing: A Prayer to the Lineage of the Secret
+        Practice of the Great Compassionate One, Natural Liberation of Suffering'
+      parent: Longchen Nyingtik
+    818cb75af50e4ffa9bc2c0c450288487:
+      title: Palchen Düpa Lineage Prayer
+      parent: Longchen Nyingtik
+    d4672f4971e64824bea51892c2413acc:
+      title: 'The Continuous Shower of Blessings: A Prayer to the Lineage of the Great
+        Perfection’s Heart-Essence of the Vast Expanse (Dzogpachenpo Longchen Nyingtik)'
+      parent: Longchen Nyingtik
+    ff5aa8fb24ca40e189235fe10d805644:
+      title: Prayer to the Lineage of Lumorab
+      parent: Lumorab
+    3b8bb1cf1c7b4cee9d612ce04c54e64a:
+      title: 'Bestower of the Light of Intelligence: A Prayer to the Lineage of the
+        Profound Sādhana Based Upon the Praise to Venerable Mañjughoṣa'
+      parent: Mañjuśrī
+    2c87990a722c43959bba76bf3ca4fc0f:
+      title: 'The Healing Medicine of Faith: A Prayer to the Lineage of the Peaceful
+        Sādhana of Mañjuśrī'
+      parent: Mañjuśrī
+    2770c92c30064bd3b17cd88fdc82c7e8:
+      title: Mindrolling Lineage Prayer
+      parent: Mindrolling
+    075f567f48a541babb1d7f3050f8834b:
+      title: Prayer for the Land of Great Bliss Practice
+      parent: Namchö
+    536803b6d5cf4ea9abc732a72fce02f6:
+      title: 'A Stream of Blessing: Verses of Supplication to the Accomplished Holders
+        of Mantra who Gained Realization in this Snowy Land of Tibet'
+      parent: Nyingma
+    7c0f11ce76a242b48cfcbcab7f1e9cc6:
+      title: Supplement to the Omniscient Ngorchen Kunga Zangpo’s Prayer to the Lineage
+        of Parting from the Four Attachments
+      parent: Parting from the Four Attachments
+    38bc4a812a484c069aef0d9eaa8a810a:
+      title: Prayer to the Lineage of Parting from the Four Attachments
+      parent: Parting from the Four Attachments
+    4c83885b233c49f29fd656493b7e99da:
+      title: 'Rain of Siddhis: A Prayer to the Lineage of Rigdzin Düpa'
+      parent: Rigdzin Düpa
+    3c71faae41e74100865afb5630ff8ec3:
+      title: 'The Flower of Faith: A Prayer to the Twenty-Five Founders of Buddha''s
+        Teachings in Tibet'
+      parent: Rimé
+    e8931c3239f341e9bed692371ce0da09:
+      title: 'The Seed of Faith: A Prayer to the Sublime Ones'
+      parent: Rimé
+    2841d8629206439c9942e15cc83d2e32:
+      title: A Prayer to Kindle the Three Faiths, Addressed to the Seventeen Great
+        Paṇḍitas of Glorious Nālandā
+      parent: Seventeen Paṇḍitas
+    4b9a73ec862a4af78695c15e167985c1:
+      title: Siṃhamukhā Lineage Prayer
+      parent: Siṃhamukhā
+    cc3e2c9bd90445a9b7f8aca8c499e39a:
+      title: The Prayer for the Wrathful Guru Takhyung Barwa from the Heart Essence
+        of the Vast Expanse
+      parent: Takhyung Barwa
+    90c64ffddffa4464bffb2ad0da71a9cf:
+      title: 'The Swift Infusion of Blessings: A Lineage Prayer for the Single Mind
+        Kīla Heart-Practice, Part of the ''Neck Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      parent: Vajrakīla
+    fab6ff173ec44e1d838483336955d32b:
+      title: A Vajrakīla Lineage Prayer
+      parent: Vajrakīla
+    97274da310d54b1594f975b4fdc5c55e:
+      title: The Brief Ḍākinī Prayer
+      parent: Yumka Dechen Gyalmo
+    122255449f6a4b8ab2800b55ec883f35:
+      title: The Source of Accomplishment, the Fruit of the Two-Fold Truth—A Prayer
+        to the Wisdom Ḍākinī Dechen Gyalmo
+      parent: Yumka Dechen Gyalmo
+    616dfa81eb1f46adae1cbf7a66cf050b:
+      title: 'The Shower of Great Bliss: A Prayer to the Lineage of the Female Awareness-Holder
+        (Yumka)'
+      parent: Yumka Dechen Gyalmo
+    2acbcef74dc24996b8955fc4eab4b552:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      parent: Zabtik Drolchok
+    83c8f265149f438ca01a698409c36517:
+      title: A Concise Lineage Prayer
+      parent: Dudjom Rinpoche
+created_at: '2022-03-01T04:14:33.052487'
+last_modified_at: '2022-03-01T04:14:33.052493'
